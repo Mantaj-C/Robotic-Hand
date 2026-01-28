@@ -15,7 +15,7 @@ This repository documents the **design phase** of my robotic hand project. The g
 - CAD modeling and iteration  
 
 ## 🖼 Current Design Preview
-![Robotic Hand Design](image.png)
+![Robotic Hand Design](Robotic_Hand.png)
 
 ## 🔜 Next Steps
 - Finalize mechanical design  
